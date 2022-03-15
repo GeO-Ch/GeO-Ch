@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GeO-Ch a full stack junior developer!
-- 🌱 I’m currently learning c#, python, html, css, js, sql and much more
+- 🌱 I’m currently learning c#, python, html, css, js, sql and many more
 - 📫 Find me on https://gr.linkedin.com/in/georgios-christothanopoulos-308997189
 
 <!---
