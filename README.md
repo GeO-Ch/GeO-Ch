@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @GeO-Ch a software developer!
+- 👋 Hi, I’m @GeO-Ch a software developer, I am in the process of updating my Github portfolio Loading... :hourglass_flowing_sand:
 - [ C#-ASP.NET | PHP-Laravel-Codeigniter | Js-React | API(web services)-Restful API | MySql-Microsoft SQL server | Tailwind CSS & Bootstrap ]
-- I am in the process of updating my Github portfolio Loading... :hourglass_flowing_sand:
 - 📫 Find me on https://gr.linkedin.com/in/georgios-christothanopoulos-308997189
