@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @GeO-Ch a full stack junior developer!
+- 👋 Hi, I’m @GeO-Ch a software developer!
 - 📫 Find me on https://gr.linkedin.com/in/georgios-christothanopoulos-308997189
